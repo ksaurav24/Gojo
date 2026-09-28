@@ -1,0 +1,29 @@
+# Suspicious TLDs (one per line, without dot)
+xyz
+top
+icu
+click
+info
+biz
+live
+site
+online
+link
+shop
+rest
+country
+work
+support
+stream
+monster
+press# Commonly abused country-code TLDs
+ml
+ga
+cf
+tk
+ee
+ge
+gg
+kz
+py
+ws
